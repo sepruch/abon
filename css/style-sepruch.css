@@ -1,0 +1,39 @@
+body {
+    background-color: #b9aaaa;
+    margin: 0;
+    font-family:sans-serif;
+    line-height: 1.5;
+    background: url ("../img/ssss.png");
+    margin: 0 auto;
+}
+
+.card{
+    width: 410px;
+    height: 550px;
+background-color: aqua;
+    margin: 0 auto;
+    position: absolute;
+    right: -1000px;
+    left: 450px;
+    bottom: 400px;
+    box-shadow: 1px 1px 50px;
+    border-radius: 10px;
+}
+
+.card-photo{
+    width: 400px;
+    height: 500px;
+
+
+}
+
+.card-title {
+    font-size: 25px;
+    text-align: center;
+    margin: auto
+
+}
+.text {
+    text-indent:20px ;
+    font-size: 17px;
+}
